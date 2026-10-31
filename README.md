@@ -6,7 +6,7 @@
     💻 System programming languages • Kotlin 
     📖 Software architecture • Mvvm + Clean Arch
     🎮 Games • Anime • Code • Cats
-    🐾 Pets • Nena
+    🐾 Pets • Nena • Kira
 </pre>
 <br><br>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjk1Z2N6MW1qYndoemkweWpibmYxZDhuNWIyZmxnN2JhMW42dmliciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cQSjIBgUC2NbMKEm9q/giphy.gif" height="100" />
